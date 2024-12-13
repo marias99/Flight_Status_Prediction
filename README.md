@@ -26,7 +26,8 @@ Key highlights:
   - `missing_values_handled.ipynb`: Handling missing values.
   - `model_training.ipynb`: Training the logistic regression model.
   - `visualizations.ipynb`: Generating visualizations for the project report.
-  
+- **`scripts/`**: Contains standalone Python scripts.
+  - `exploratory_data_analysis.py`: Exploratory Data Analysis using Python.
 ### Key Files:
 - **`Flight_Status_Prediction_Report.pdf`**: Final project report summarizing the pipeline, findings, and conclusions.
 - **README.md**: Project description, repository structure, and instructions.
