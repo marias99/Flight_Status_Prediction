@@ -29,7 +29,7 @@ Key highlights:
 - **`scripts/`**: Contains standalone Python scripts.
   - `exploratory_data_analysis.py`: Exploratory Data Analysis using Python.
 ### Key Files:
-- **`Flight_Status_Prediction_Report.pdf`**: Final project report summarizing the pipeline, findings, and conclusions.
+- **`cis_4130_project_milestone_6_Segarra_MariaPaz`**: Final project report summarizing the pipeline, findings, and conclusions.
 - **README.md**: Project description, repository structure, and instructions.
 
 ---
